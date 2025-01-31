@@ -1,4 +1,4 @@
-Site de Música - Rex Ornge County
+Site de Música - Rex Orange County
 
 📝 Descrição
 Repositório desenvolvido como atividade prática de estudo pessoal. Inspirado parcialmente no site de música de The Neighbourhood feita por Anthony Rodrigues (https://github.com/TonyRodIv)
