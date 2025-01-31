@@ -1,12 +1,14 @@
-Site de Música - Rex Orange County
+#Site de Música - Rex Orange County
 
-📝 Descrição
+https://doardoe.github.io/landing-page-rex-orange-county/
+
+#📝 Descrição
 
 Repositório desenvolvido como atividade prática de estudo pessoal. Inspirado parcialmente no site de música de The Neighbourhood feita por Anthony Rodrigues (https://github.com/TonyRodIv)
 
 Site: (https://tonyrodiv.github.io/TheNeigh/)
 
-🛠️ Tecnologias Utilizadas
+#🛠️ Tecnologias Utilizadas
 
 HTML5: Estruturação do site.
 
