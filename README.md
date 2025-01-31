@@ -9,5 +9,7 @@ Site: (https://tonyrodiv.github.io/TheNeigh/)
 🛠️ Tecnologias Utilizadas
 
 HTML5: Estruturação do site.
+
 CSS3: Estilização e design responsivo.
+
 JavaScript: Funcionalidade interativa, botão de ler mais.
